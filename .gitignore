@@ -1,0 +1,12 @@
+# use glob syntax.
+syntax: glob
+
+.vs
+.idea
+obj
+bin
+node_modules
+*.pubxml.user
+_ReSharper.Caches
+
+/ui/src/products
